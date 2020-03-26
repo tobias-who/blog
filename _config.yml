@@ -21,7 +21,7 @@
 title: Tobi's Blog
 email: tobbertblog@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the Blog of Tobias Klehr.
+  This is the Blog of Tobias.
 baseurl: "blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
