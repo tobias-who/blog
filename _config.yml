@@ -28,10 +28,9 @@ twitter_username:
 github_username:  tobias-who
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+theme: minimal
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
