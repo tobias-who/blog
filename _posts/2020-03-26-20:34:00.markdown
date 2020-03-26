@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Mein zweiter Blogbeitrag"
+date:   2020-03-26 20:34:12 +0100
+categories: jekyll post
+---
+Hallo das ist mein zweiter Blogbeitrag, den ich soeben auf die schnelle erstellt habe und direkt über Git pushen konnte, sodass er direkt live geht.
